@@ -11,3 +11,7 @@ This is a community driven repo for current and incoming students to CMU.
 
 ## Mental Health Resources
 * CMU CaPS: https://www.cmu.edu/counseling/
+
+## Visa experience
+
+Visa experience for Fall'24 intake - https://docs.google.com/spreadsheets/d/1NL1Og7od8pJ7d9s7mq_S5sIxrWrFUMHvBopBmyI4sxo/edit?usp=drivesdk
