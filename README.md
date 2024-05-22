@@ -14,8 +14,8 @@ This is a community driven repo for current and incoming students to CMU.
 
 ## Visa experience
 
-Visa experience for Fall'24 intake - https://docs.google.com/spreadsheets/d/1NL1Og7od8pJ7d9s7mq_S5sIxrWrFUMHvBopBmyI4sxo/edit?usp=drivesdk
+* Visa experience for Fall'24 intake - https://docs.google.com/spreadsheets/d/1NL1Og7od8pJ7d9s7mq_S5sIxrWrFUMHvBopBmyI4sxo/edit?usp=drivesdk
 
 ## Flight Details
 
-Flight details for Fall'24 intake - https://docs.google.com/spreadsheets/d/1kB5vKZ2ghjSfXCk2HWCGnOzAiwVuQuCllU72roGCqsM/edit#gid=0
+* Flight details for Fall'24 intake - https://docs.google.com/spreadsheets/d/1kB5vKZ2ghjSfXCk2HWCGnOzAiwVuQuCllU72roGCqsM/edit#gid=0
